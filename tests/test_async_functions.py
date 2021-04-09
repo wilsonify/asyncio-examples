@@ -1,4 +1,4 @@
-import gsaio.shellsignal02
+from gasaio import shellsignal02
 
 
 def test_alert(loop):
